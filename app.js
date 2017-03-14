@@ -10,7 +10,7 @@ function MsgController($scope) {
   $scope.stateOfBeing = "besito";
 
   $scope.sayMessage = function () {
-    return "Yaakov likes to eat healthy snacks at night!";
+    return "Y espera con mucha ansia jeje";
   };
 
   $scope.besarmonita = function () {
